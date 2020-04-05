@@ -1,1 +1,6 @@
 /target
+/.idea/
+/nettybook2.iml
+/.classpath
+/.settings/
+/.project
